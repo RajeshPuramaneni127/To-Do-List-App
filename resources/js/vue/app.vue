@@ -6,6 +6,7 @@
             :items="items"
             v-on:reloadlist="getItems()"
             class="text-center"
+            
         />
     </div>
 </template>
